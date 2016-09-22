@@ -3,4 +3,5 @@ Vamo a empezar
 int main()
 {
 	cout<<"Ya estoy aqui software"<<endl;
+	int a,b,c=0;
 }
