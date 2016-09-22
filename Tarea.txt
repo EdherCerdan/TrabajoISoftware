@@ -26,10 +26,8 @@ return 0;
 
 int main()
 {
-<<<<<<< HEAD
+
 	cout<<"Ya estoy aqui software"<<endl;
 }
-=======
-}
 
->>>>>>> refs/remotes/origin/master
+
