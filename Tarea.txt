@@ -1,6 +1,7 @@
 Vamo a empezar
 
 
+
 Emepzemos 
 Algo de codigo
 #include<stdio.h>
@@ -27,6 +28,7 @@ return 0;
 int main()
 {
 
+
 	cout <<"hola blas"
 }
 
@@ -36,5 +38,21 @@ aqui estoy
 int main()
 {
 	cout<<"chepo windero de sh!t"
+	cout<<"Ya estoy aqui software"<<endl;
+
 }
 
+
+=======
+Vamos a calmarnos y empezar de 0
+
+intentando de nuevo a ver 
+
+
+
+
+
+intentando de nuevo a ver si sale ahora
+vamos con fe
+
+quiero ir  a dormir  chepo chaman!! 
