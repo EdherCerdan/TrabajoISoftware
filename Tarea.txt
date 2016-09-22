@@ -4,3 +4,7 @@ int main()
 {
 	cout <<"hola blas"
 }
+int main()
+{
+	cout<<"chepo windero de sh!t"
+}
