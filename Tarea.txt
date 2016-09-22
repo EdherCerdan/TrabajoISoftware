@@ -29,5 +29,12 @@ int main()
 
 	cout <<"hola blas"
 }
+
 aqui estoy
+
+
+int main()
+{
+	cout<<"chepo windero de sh!t"
+}
 
