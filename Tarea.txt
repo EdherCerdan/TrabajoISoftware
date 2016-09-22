@@ -1,4 +1,4 @@
-Vamo a empezar
+﻿Vamo a empezar
 
 
 
@@ -98,3 +98,6 @@ int main()
 {
 {{
 
+//////////////////////////////////////////
+no se que estaran haciendo
+/////////////////////////////////////////
