@@ -25,5 +25,8 @@ return 0;
 
 int main()
 {
+Hola mundo 
+
+Que tal a todos
 }
 
