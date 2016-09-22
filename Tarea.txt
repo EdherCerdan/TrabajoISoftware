@@ -1,5 +1,6 @@
 Vamo a empezar
 
+
 Emepzemos 
 Algo de codigo
 #include<stdio.h>
@@ -22,3 +23,8 @@ printf("\nel resultado de la usma es:%d",num1+num2+num3+num4+num5);
 getch;
 return 0;
 }
+
+int main()
+{
+}
+
