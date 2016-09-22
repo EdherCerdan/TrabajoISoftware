@@ -1,6 +1,5 @@
 Vamo a empezar
 
-
 Emepzemos 
 Algo de codigo
 #include<stdio.h>
