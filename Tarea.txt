@@ -1,5 +1,6 @@
 Vamo a empezar
 
+<<<<<<< HEAD
 
 Emepzemos 
 Algo de codigo
@@ -28,3 +29,8 @@ int main()
 {
 }
 
+=======
+Vamos a calmarnos y empezar de 0
+
+intentando de nuevo a ver 
+>>>>>>> origin/ramaRodrigo
