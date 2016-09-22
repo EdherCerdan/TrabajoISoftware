@@ -27,10 +27,20 @@ return 0;
 
 int main()
 {
+
+	cout<<"Ya estoy aqui software"<<endl;
 }
 
+<<<<<<< HEAD
 =======
 Vamos a calmarnos y empezar de 0
 
 intentando de nuevo a ver 
 >>>>>>> origin/ramaRodrigo
+=======
+
+>>>>>>> origin/master
+
+intentando de nuevo a ver si sale ahora
+vamos con fe
+
