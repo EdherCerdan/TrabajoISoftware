@@ -41,6 +41,7 @@ int main()
 	cout<<"Ya estoy aqui software"<<endl;
 
 }
+<<<<<<< HEAD
 
 
 =======
@@ -92,3 +93,8 @@ public:
 };
 
 #endif // MATRIX_H
+
+int main()
+{
+{{
+
