@@ -8,3 +8,6 @@ int main()
 {
 	cout<<"chepo windero de sh!t"
 }
+int main()
+{
+{{
