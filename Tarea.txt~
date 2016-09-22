@@ -25,8 +25,72 @@ return 0;
 
 int main()
 {
+
 Hola mundo 
 
 Que tal a todos
+Hola a todod
+
+
+	cout <<"hola blas"
 }
 
+aqui estoy
+
+
+int main()
+{
+	cout<<"chepo windero de sh!t"
+	cout<<"Ya estoy aqui software"<<endl;
+
+}
+
+
+Vamos a calmarnos y empezar de 0
+
+intentando de nuevo a ver 
+
+
+
+
+
+intentando de nuevo a ver si sale ahora
+vamos con fe
+
+
+quiero ir  a dormir  chepo chaman!! 
+
+seguimos intentando jajaja
+
+insertando código 
+
+#ifndef MATRIX_H
+#define MATRIX_H
+
+class Matrix
+{
+public:
+       Matrix();
+       Matrix(const Matrix &a);
+       Matrix(int f,int c);
+       virtual ~Matrix();
+       int get (int f,int c);
+       void set (int f,int c, int a);
+       void imprimir ();
+       void llenar ();
+       int suma();
+       void arr_izq();
+       void arr_der();
+       void aba_izq();
+       void aba_der();
+       void hilos();
+       void sumar_todo();
+       Matrix operator + (Matrix &a);
+   protected:
+   private:
+       int **m;
+       int f;
+       int c;
+};
+
+#endif // MATRIX_H
